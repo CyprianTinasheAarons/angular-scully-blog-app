@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Building the Scully Blog
+
+run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+followed by `npm run scully`
+
+next run `npm run scully:serve` to start the server
+
+Further reading
+Here are some links to build upon what we learned in this chapter:
+• Angular routing: https://angular.io/guide/router
+• Angular feature modules: https://angular.io/guide/module-types
+• Lazy loading modules: https://angular.io/guide/lazy-loading- ngmodules
+• Angular built-in pipes: https://angular.io/api?type=pipe
+• Bootstrap CSS: https://getbootstrap.com/
+• Jamstack: https://jamstack.org/
+• Scully: https://scully.io/
+• Mastering Markdown: https://guides.github.com/features/ mastering-markdown/
